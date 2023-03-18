@@ -1,6 +1,10 @@
-# 项目文档页 - 2022级5&6班的英语栈
 
-## 英语栈来源(即[2022年12月的特殊周作业](https://eng.chenjunren.site/202212specialweek/))
+
+# [项目文档页 - 2022级5&6班的英语栈](https://help.xhsy220506.top)
+
+## 分类 - 优秀作业
+
+### 英语栈来源(即[2022年12月的特殊周作业](https://eng.xhsy220506.top/202212specialweek/))
 
 2022年12月的23号，我们因为疫情的原因在家已经上了一个多月的网课了。**但是**，我们的英语老师布置了一份开放作业，我依稀记得是下面这样的。
 
@@ -31,6 +35,8 @@
 
 此其所由矣。
 
+#### 本次作业共有11分作业，具体详情请看网站
+
 ---
 
 2023年3月18日留
@@ -59,5 +65,40 @@
 >
 >     一共花费47.9元和121分钟
 
-## [2023年元旦特殊作业](https://eng.chenjunren.site/2023newyearsday/)
+### [2023年元旦特殊作业](https://eng.xhsy220506.top/2023newyearsday/)
 
+2023年1月4日发布，下为其具体作业要求
+
+> *Watch the film Alice in Wonderland and try to do one of the tasks:*
+>
+> 1. *Write a review on the film*
+> 2. *Make a poster of the film*
+> 3. *Take down lines you like*
+
+#### 本次作业共有18份优秀作业，具体详情请看网站
+
+### [A Mini Debate about Being Misunderstood](https://eng.xhsy220506.top/debate-misunderstood/)
+
+2023年1月8日发布，原为英语课上一个小辩论，后经同学整理发布
+
+####　本篇文章共有3份作文，具体详情请看网站
+
+## 分类 - 其他
+
+### [Happy 2023 Chinese New Year!](https://eng.xhsy220506.top/2023chinesenewyear/)
+
+2023年1月22日发布，用一些关于春节的图片庆祝2023卯兔年的到来！
+
+### [英语知识梳理 - English Notes Summarization(持续更新ing...)](https://eng.xhsy220506.top/notes/)
+
+关于英语学科的知识梳理，单元更新
+
+## 分类 - 特殊作业
+
+### [Special Homework - 1st](https://eng.xhsy220506.top/sh01/)
+
+第一次面向全年级征集作文
+
+### [Special Homework 1st - Answers page](https://eng.xhsy220506.top/sh01ans/)
+
+"Special Homework - 1st"的答卷发布页
